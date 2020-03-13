@@ -1,1 +1,1 @@
-# headless-wordpress-with-react
+# Headless Wordpress With React
